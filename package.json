@@ -1,0 +1,8 @@
+{
+  "name": "electron-with-express-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/electron-userland/electron-webpack-quick-start.git",
+  "author": "Javier Leandro Arancibia <arancibiajav@gmail.com>",
+  "license": "MIT"
+}
